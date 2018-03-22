@@ -1,0 +1,6 @@
+c:\git\LABA\LABA\bin\Debug\LABA.exe.config
+c:\git\LABA\LABA\bin\Debug\LABA.exe
+c:\git\LABA\LABA\bin\Debug\LABA.pdb
+c:\git\LABA\LABA\obj\Debug\LABA.csprojResolveAssemblyReference.cache
+c:\git\LABA\LABA\obj\Debug\LABA.exe
+c:\git\LABA\LABA\obj\Debug\LABA.pdb
