@@ -1,0 +1,13 @@
+c:\git\LABA\LABA\bin\Debug\LABA.exe.config
+c:\git\LABA\LABA\bin\Debug\LABA.exe
+c:\git\LABA\LABA\bin\Debug\LABA.pdb
+c:\git\LABA\LABA\obj\Debug\LABA.csprojResolveAssemblyReference.cache
+c:\git\LABA\LABA\obj\Debug\LABA.exe
+c:\git\LABA\LABA\obj\Debug\LABA.pdb
+C:\Users\Moucy Cat\Desktop\height-master\LABA\bin\Debug\LABA.exe.config
+C:\Users\Moucy Cat\Desktop\height-master\LABA\bin\Debug\LABA.exe
+C:\Users\Moucy Cat\Desktop\height-master\LABA\bin\Debug\LABA.pdb
+C:\Users\Moucy Cat\Desktop\height-master\LABA\obj\Debug\LABA.csprojResolveAssemblyReference.cache
+C:\Users\Moucy Cat\Desktop\height-master\LABA\obj\Debug\LABA.csproj.CoreCompileInputs.cache
+C:\Users\Moucy Cat\Desktop\height-master\LABA\obj\Debug\LABA.exe
+C:\Users\Moucy Cat\Desktop\height-master\LABA\obj\Debug\LABA.pdb
